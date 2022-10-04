@@ -1,7 +1,9 @@
-#Welcome to my snake game!
+Welcome to my snake game!
 
 Game instructions:
 
 - Press arrow keys or 'wasd' to move the snake, 'p' to pause and continue
 - Eat the apple to score a point
 - Game is over when snake hits a wall or itself
+
+Enjoy!
