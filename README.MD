@@ -4,7 +4,7 @@ Welcome to my snake game!
 
 ## Implementation
 
-Implemented a snake game using Python and Pygame.
+Implemented a snake game using PyGame.
 
 ## Game instructions
 
